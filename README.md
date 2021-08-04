@@ -18,7 +18,7 @@
     - Google Cloud Plataform (GCP)
 ---------------------------------------------------------------------------
 ### Descripcion de la practica
-Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando conectar varias computadoras a dicha red pudiendose comunicar las unas a las otras por medio de internet.
+Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando conectar varias computadoras :computer: a dicha red pudiendose comunicar las unas a las otras por medio de internet.
 
    <p>
     <img src="./red.jpg" title="hover text">

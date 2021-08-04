@@ -27,8 +27,8 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 
 ---------------------------------------------------------------------------
 ### PASOS PARA CREACION DE UNA RED VPN
-<p>
-    <center><img src="./capturas/1.JPG" width="500" title="hover text" ></center>
+<p align="center">
+    <img src="./capturas/1.JPG" width="500" title="hover text" >
 </p>
 <p>
     <img src="./capturas/2.JPG" width="500" title="hover text" >

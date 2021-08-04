@@ -30,72 +30,72 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 <p align="center">
     <img src="./capturas/1.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/2.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/3.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/4.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/5.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/6.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/7.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/8.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/9.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/10.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/11.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/12.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/12.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/13.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/14.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/15.JPG" width="250" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/16.JPG" width="250" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/17.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/18.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/19.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/20.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/21.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/22.JPG" width="500" title="hover text" >
 </p>
-<p>
+<p align="center">
     <img src="./capturas/23.JPG" width="500" title="hover text" >
 </p>

@@ -11,9 +11,9 @@
 ---------------------------------------------------------------------------
 ### Herramientas utlizadas 
 - Equipo.
-    - 4 computadores con sistema operativo libre, ejemplo windows 10
+    - 4 computadores con sistema operativo libre *"windows 10 o ubuntu"*
 - Software.
-    - Administradors VPNs, ejemplo OpenVPN
+    - Administradors VPNs *"OpenVPN"*
 - Plataforma
     - Google Cloud Plataform (GCP)
 ---------------------------------------------------------------------------

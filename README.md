@@ -9,3 +9,11 @@
 ### AARON JUAREZ 
 ### SOHANY LOPEZ
 ---------------------------------------------------------------------------
+### herramientas utlizadas 
+- Equipo.
+    - 4 computadores con sistema operativo libre, ejemplo windows 10
+- Software.
+    - Administradors VPNs, ejemplo OpenVPN
+- Plataforma
+    - Google Cloud Plataform (GCP)
+---------------------------------------------------------------------------

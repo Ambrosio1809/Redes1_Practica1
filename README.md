@@ -4,12 +4,13 @@
 ## FACULTAD DE INGENIERIA 
 ## REDES DE COMPUTADORAS 1
 ---------------------------------------------------------------------------
-### ERICK VALENZUELA
-### FERNANDO AMBROSIO
-### AARON JUAREZ 
-### SOHANY LOPEZ
+### INTEGRANTES
+- ERICK VALENZUELA
+- FERNANDO AMBROSIO
+- AARON JUAREZ 
+- SOHANY LOPEZ
 ---------------------------------------------------------------------------
-### Herramientas utlizadas 
+### HERRAMIENTAS UTILIZADAS
 - Equipo.
     - 4 computadores con sistema operativo libre *"windows 10 o ubuntu"*
 - Software.
@@ -17,9 +18,17 @@
 - Plataforma
     - Google Cloud Plataform (GCP)
 ---------------------------------------------------------------------------
-### Descripcion de la practica
+### DESCRIPCION DE LA PRACTICA
 Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando conectar varias computadoras :computer: a dicha red pudiendose comunicar las unas a las otras por medio de internet.
 
    <p>
     <img src="./red.jpg" title="hover text">
    </p>
+
+---------------------------------------------------------------------------
+### PASOS PARA CREACION DE UNA RED VPN
+<p>
+ <center>
+    <img src="./capturas/1.jpg" width="500" title="hover text" >
+ </center>
+</p>

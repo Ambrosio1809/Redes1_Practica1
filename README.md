@@ -104,14 +104,16 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
     <img src="./capturas/8.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+9. Puerto de escucha y DNS de red VPN
+    * Como siguiente paso debemos de ingresar el puerto de escucha de nuestra red vpn, en este caso se escogio el 1194.
+    * Luego de ingresar nuestro puerto vamos a ingresar nuestro DNS, este nos indica en que zona de autoridad nos queremos ubicar, en este caso usaremos el DNS de google, para esto ingresamos el numero correspondiente a google.
 <p align="center">
     <img src="./capturas/9.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+10. Certificado de Cliente
+    * Despues de realizar lo anterior nos pedira que ingresemos el nombre del certificado de nuestro cliente, con esto podremos identificar a nuestra manera a que cliente le estamos asignando el certicado que estamos creando, para esto solo debemos ingresar el nombre que queremos con las especificaciones que nos pide OpenVPN, en este caso utilizamos fernando como ejemplo.
+        * Nota: despues de ingresar el nombre y darle enter puede tardar algunos minutos en crear el certificado.
 <p align="center">
     <img src="./capturas/10.JPG" width="500" title="hover text" >
 </p>

@@ -133,12 +133,6 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 3. texto
     * texto
 <p align="center">
-    <img src="./capturas/12.JPG" width="500" title="hover text" >
-</p>
-
-3. texto
-    * texto
-<p align="center">
     <img src="./capturas/13.JPG" width="500" title="hover text" >
 </p>
 

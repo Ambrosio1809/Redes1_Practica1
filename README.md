@@ -122,42 +122,56 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
     * Lo siguiente que debemos realizar el crear dos reglas de firewall, estas nos serviran para poder dar acceso y garantizar la seguridad de nuestra maquina virtual.
         * El primer paso para crear nuestras reglas de firewall es ir al menu y luego RED DE VPC, aqui encontraremos el apartado de firewall y le damos en crar nueva regla.
         * Primero nos pedira el nombre que queremos para nuestra regla, en este caso ya que son dos reglas, una para entrada y otra para salida de conexiones, usaremos ALLIN Y ALLOUT, las configuraciones para dicha regla son las mismas solamente cambiara que en el apartaod de direccion de trafico en una sera entrada y la otra salida.
-        * 
 <p align="center">
     <img src="./capturas/11.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+12. Propiedades de la regla de Firewall
+    * Para este paso procederemos a configurar el destino, filtro de origen, rango de ip, protocolos y puertos.
+        * Para los destino seleccionaremos todas las instancias de red.
+        * filtros de origen usaremos Rangos de IP
+        * Definiremos nuestros rangos de IP permitidos
+            - rango permitidos: 0.0.0.0/0
+        * filtro de orignen ninguno
+        * protocolos y puertos, escogeremos protocolos y puertos especificados
+            * utiizaremos el protocolo UPD, con el puerto 1194
 <p align="center">
     <img src="./capturas/11.1.jpg" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+13. Espacio de reglas
+    * al terminar de confirar nuestras reglas estas se mostraran com en la siguiente imagen.
 <p align="center">
     <img src="./capturas/12.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+14. Descarga de perfil de cliente.
+    * Despues de configurar nuestras regla de firewall regresamos a nuestra consola y ya habiendo terminado nuestro programa de crear el perfil de cliente, procederemos a descargarlo, como se muestra en la imagen el perfil esta guardado en la ruta resaltada, solo debemos de descargar este archivo.
 <p align="center">
     <img src="./capturas/13.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+15. Descarga de archivo
+    * Para descargar el archivo debemos de ubicarno en la roldana que se encuentra en la parate superior derecha y le damos descargar archivos, e ingresamos la ruta que nos dio el programa, luego se nos descargara saliendonos de la siguiente forma que fue exitosa la descarga.
 <p align="center">
     <img src="./capturas/14.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+16. Prueba de Perfiles (Carga de Archivo)
+    * Para poder probar nuestros perfiles que hemos creado debemos de instalar OpenVpn en nuestra maquina fisica, desde donde nos conectaremos a nuestra maquina virtual ubicada en la nube, para esto vamos al siguiente link.
+        - [https://openvpn.net/vpn-client/](https://openvpn.net/vpn-client/)
+    * despues de descargar e instalar nos saldra la siguiente imagen, donde le daremos en el apartado de FILE y nos pedira un archivo, en este caso buscaremos el archivo que acabmos de descargar en el paso anterior
+<p align="center">
+    <img src="./capturas/15.1.JPG" width="250" title="hover text" >
+</p>
+
+17. Prueba de perfil
+    * Despues de cargar el archivo se presentara la siguiente pantalla en donde debemos darle en connect y asi empezara la prueba de nuestro cliente.
 <p align="center">
     <img src="./capturas/15.JPG" width="250" title="hover text" >
 </p>
 
-3. texto
+18. Conexion 
     * texto
 <p align="center">
     <img src="./capturas/16.JPG" width="250" title="hover text" >

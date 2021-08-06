@@ -113,15 +113,24 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 
 10. Certificado de Cliente
     * Despues de realizar lo anterior nos pedira que ingresemos el nombre del certificado de nuestro cliente, con esto podremos identificar a nuestra manera a que cliente le estamos asignando el certicado que estamos creando, para esto solo debemos ingresar el nombre que queremos con las especificaciones que nos pide OpenVPN, en este caso utilizamos fernando como ejemplo.
-        * Nota: despues de ingresar el nombre y darle enter puede tardar algunos minutos en crear el certificado.
+        * *Nota: despues de ingresar el nombre y darle enter puede tardar algunos minutos en crear el certificado.*
 <p align="center">
     <img src="./capturas/10.JPG" width="500" title="hover text" >
+</p>
+
+11. Creacion de reglas de *FIREWALL*
+    * Lo siguiente que debemos realizar el crear dos reglas de firewall, estas nos serviran para poder dar acceso y garantizar la seguridad de nuestra maquina virtual.
+        * El primer paso para crear nuestras reglas de firewall es ir al menu y luego RED DE VPC, aqui encontraremos el apartado de firewall y le damos en crar nueva regla.
+        * Primero nos pedira el nombre que queremos para nuestra regla, en este caso ya que son dos reglas, una para entrada y otra para salida de conexiones, usaremos ALLIN Y ALLOUT, las configuraciones para dicha regla son las mismas solamente cambiara que en el apartaod de direccion de trafico en una sera entrada y la otra salida.
+        * 
+<p align="center">
+    <img src="./capturas/11.JPG" width="500" title="hover text" >
 </p>
 
 3. texto
     * texto
 <p align="center">
-    <img src="./capturas/11.JPG" width="500" title="hover text" >
+    <img src="./capturas/11.1.jpg" width="500" title="hover text" >
 </p>
 
 3. texto

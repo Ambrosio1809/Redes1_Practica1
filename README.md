@@ -172,13 +172,17 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 </p>
 
 18. Conexion 
-    * texto
+    * Luego de realizar el paso anterior se nos mostrara la siguiente pantalla donde ya nos dira si la conexion fue exitosa y nos mostrara todos los datos de nuestro servidor de red VPN que hemos creado.
 <p align="center">
     <img src="./capturas/16.JPG" width="250" title="hover text" >
 </p>
 
-3. texto
-    * texto
+19. Comprobacion de conexion exitosa
+    * Para poder determinar que nuestra conexion fue exitosa, debemos abrir la consola de nuestra computadora fisica e ingresa el siguiente comando.
+    ```
+    ipconfig
+    ```
+    * Al realizar lo anterior no debe de aparecer en la direccion IPv4 la direccion ip de nuestro servidor VPN, tal y como se muestra en la siguiente imagen.
 <p align="center">
     <img src="./capturas/17.JPG" width="500" title="hover text" >
 </p>

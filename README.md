@@ -87,6 +87,10 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
     ```
     sudo wget https://cubaelectronica.com/OpenVPN/openvpn-install.sh
     ```
+    * Despues de realizar lo anterior debemos de ingresar el siguiente comando
+    ```
+    sudo bash openvpn-install.sh
+    ```
     * Al ingresar el comando se nos deplegara la siguiente pantalla, donde nos mostrar la direccion ip de nuestra maquina virtual y para poder continuar le damos enter.
 <p align="center">
     <img src="./capturas/6.JPG" width="500" title="hover text" >
@@ -208,7 +212,7 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 22. Creacion de nuevos Perfiles
     * Para poder crear nuesvos perfiles debemos de ejecutar nuevamente el siguiente comando.
     ```
-    sudo wget https://cubaelectronica.com/OpenVPN/openvpn-install.sh
+    sudo bash openvpn-install.sh
     ```
     * Desplegandose lo que se muestra en la siguiente imagen, donde solo debemos ingresar el numero que corresponde a la opcion de agrega nuevo usuario.
     * Ahora solomante nos pedira ingresar el nombre del nuevo usaurio y procedera a crear el nuevo perfil de client.

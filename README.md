@@ -187,38 +187,39 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
     <img src="./capturas/17.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+20. Comprobacion externa de ip
+    * Si queremos determinar de una forma externa que nuestra ip cambio debido a que estamos conectados a nuestro servidor VPN, podemos utilizar la siguiente pagina.
+     - [https://www.cual-es-mi-ip.net/](https://www.cual-es-mi-ip.net/)
 <p align="center">
     <img src="./capturas/18.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+21. Comprobacion de conexion desde servido VPN
+    * Para realizar esta prueba debemos de escribir el siguiente comando en la consola de nuestra maquina virtual donde esta el servidor VPN
+    ```
+    ping "aqui iria la ip de nuestra maquina fisica"
+    ```
+    * despues de realizar lo anterior se nos debe de mostrar como en la siguiente siguiente.
+        - *NOTA: si en dado caso no relizara ninguna accion debemos de desactivar el firewall de nuestra maquina fisica a la cual nos estamos comunicando.*
 <p align="center">
     <img src="./capturas/19.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+22. Creacion de nuevos Perfiles
+    * Para poder crear nuesvos perfiles debemos de ejecutar nuevamente el siguiente comando.
+    ```
+    sudo wget https://cubaelectronica.com/OpenVPN/openvpn-install.sh
+    ```
+    * Desplegandose lo que se muestra en la siguiente imagen, donde solo debemos ingresar el numero que corresponde a la opcion de agrega nuevo usuario.
+    * Ahora solomante nos pedira ingresar el nombre del nuevo usaurio y procedera a crear el nuevo perfil de client.
 <p align="center">
     <img src="./capturas/20.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
-<p align="center">
-    <img src="./capturas/21.JPG" width="500" title="hover text" >
-</p>
-
-3. texto
-    * texto
+23. Pruebas de conexion a nuevo cliente
+    * Como en las anteriores pruebas solamente debemos de hacer ping a la direccion ip de nuestro nuevo cliente y recibiremos la respuesta de solicitud
+        - De igual forma si no recibimos ninguna respuesta se debe de deshabilitar el firewall de nuestra nuevo cliente en su maquina fisica.
 <p align="center">
     <img src="./capturas/22.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
-<p align="center">
-    <img src="./capturas/23.JPG" width="500" title="hover text" >
-</p>

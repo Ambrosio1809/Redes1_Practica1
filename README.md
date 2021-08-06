@@ -49,23 +49,40 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
     ```
     npm apt-get update
     ```
+    * luego de ingresar el anterior comando damos enter y esperamos a que termine de realizar las actualizaciones
 <p align="center">
     <img src="./capturas/3.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+4. Instalacion del paquete *WGET*
+    * Este paquete nos servire para poder descargar archivos a travez de una url, para poder saber si tenes instalado el paquete *wget* en nuestro sistema operativo en este caso ubuntu, debemos ingresar el siguiente comando.
+    ```
+    sudo wget -v
+    ```
+    * Si al ingresar este comando nos sale un mensaje como en la imagen que dice *command not found* debemos de instalar este paquete en nuestro sistema operativo, para esto debemos escribir el siguiente comando.
+    ```
+    sudo apt-get install wget
+    ```
+    * Al ingresar este comando y darle enter comenzara la descarga e instalacion de este paquete, tal y como se muestra en la imagen.
 <p align="center">
     <img src="./capturas/4.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+5. Verficiar si el paquete *WGET* quedo correctamente instalado
+    * Para poder verficar si el paquete quedo debidamente instalado debemos de ingresar en el siguiente comando.
+    ```
+    sudo -i
+    ```
+    * el anterior comando nos permite ser super usuarios, luego escribimos en la consola.
+    ```
+    wget -v
+    ```
+    * Tal y como se nos muestra en la imagen sabremos que todo quedo debidamente instalado.
 <p align="center">
     <img src="./capturas/5.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
+6. Instalacion de *OpenVPN*
     * texto
 <p align="center">
     <img src="./capturas/6.JPG" width="500" title="hover text" >

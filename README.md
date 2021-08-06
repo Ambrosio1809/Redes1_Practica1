@@ -46,7 +46,6 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 3. Uso de maquina virtual
     * Cuando la maquina virtual y esta corriendo debemos de seleccionar la opcion que nos parece de SSH, esta opcion nos abrira una venta que es la consola del sistema operativo que escogimos en este caso seria la consola de ubuntu Debian.
     * Lo primero que debemos hacer es actualizar las libreria del sistema operativo para esto utilizamos el comando 
-
     ```
     npm apt-get update
     ```

@@ -197,7 +197,7 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 21. Comprobacion de conexion desde servido VPN
     * Para realizar esta prueba debemos de escribir el siguiente comando en la consola de nuestra maquina virtual donde esta el servidor VPN
     ```
-    ping "aqui iria la ip de nuestra maquina fisica"
+    ping "ip de nuestra maquina fisica"
     ```
     * despues de realizar lo anterior se nos debe de mostrar como en la siguiente siguiente.
         - *NOTA: si en dado caso no relizara ninguna accion debemos de desactivar el firewall de nuestra maquina fisica a la cual nos estamos comunicando.*

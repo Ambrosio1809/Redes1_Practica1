@@ -83,19 +83,23 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
 </p>
 
 6. Instalacion de *OpenVPN*
-    * texto
+    *  Para poder instlar nuestra herramienta que nos permitira crear una red vpn, en este caso OpenVPN, debemos igualmente ingresar el siguiente comando.
+    ```
+    sudo wget https://cubaelectronica.com/OpenVPN/openvpn-install.sh
+    ```
+    * Al ingresar el comando se nos deplegara la siguiente pantalla, donde nos mostrar la direccion ip de nuestra maquina virtual y para poder continuar le damos enter.
 <p align="center">
     <img src="./capturas/6.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+7. Ingreso de ip publica de maquina virtual
+    * Despues del paso anterior el programa nos pedira nuestra ip publica, para poder saber cual es nuestra ip publica, nos dirigimos a nuestro navegador y en la consola de google cloud donde nos muestra nuestras maquinas virutal buscamos la maquina virtual que estamos utlizando actualmente y buscamos el apartado de ip public, copiamos el numero que se nos otorga y lo pegamos en nuestra consola.
 <p align="center">
     <img src="./capturas/7.JPG" width="500" title="hover text" >
 </p>
 
-3. texto
-    * texto
+8. Protocolo para conexiones VPN
+    * Luego de realizar el siguiente paso el programa nos pedira que escojamos el tipo de protocolo que queremos para nuestras conexiones, en este caso escojeremos el *UDP* ya que este es el protocolo que nos interesa, para esto solo debemos ingresar el numero que corresponde al protocolo que queremos y le damos enter.
 <p align="center">
     <img src="./capturas/8.JPG" width="500" title="hover text" >
 </p>

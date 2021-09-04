@@ -237,7 +237,7 @@ Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando
             .tg .tg-xkfo{background-color:#9698ed;border-color:inherit;text-align:left;vertical-align:top}
             .tg .tg-ncd7{background-color:#ffffc7;border-color:inherit;text-align:left;vertical-align:top}
             .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-            </style>
+        </style>
         <table class="tg">
             <thead>
                 <tr>
